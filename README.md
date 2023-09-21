@@ -8,7 +8,6 @@ Para ejecutar el juego, necesitarás tener Python instalado en tu sistema. Adem�
 
 pip install pygame
 
-
 ## Instrucciones
 
 1. Clona o descarga este repositorio en tu computadora.
@@ -24,7 +23,6 @@ pip install pygame
 
 python main.py
 
-
 4. En el menú principal, presiona "Enter" para comenzar el juego. Controla la nave espacial con las teclas izquierda y derecha, y dispara con la tecla "Espacio".
 
 5. El juego terminará cuando una nave espacial colisione con un alienígena. Tu puntuación se mostrará en la parte superior de la pantalla.
@@ -37,12 +35,8 @@ python main.py
 - Sonidos de disparo y explosión.
 - Música de fondo.
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes crear solicitudes de extracción para mejorar el juego, agregar características nuevas o solucionar problemas.
-
 ## Créditos
 
-Este juego se basa en tutoriales y ejemplos disponibles en línea y ha sido adaptado para tu aprendizaje y diversión.
+Este juego se basa en tutoriales y ejemplos disponibles en línea y ha sido adaptado para el aprendizaje y la diversión.
 
 ¡Disfruta del juego y buena suerte cazando alienígenas!
